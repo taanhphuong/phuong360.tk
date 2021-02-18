@@ -1,0 +1,52 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
+<url>
+<loc>http://localhost/</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>http://localhost/index.php</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>http://localhost/acc/minecraft.html</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>http://localhost/profile.html</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>http://localhost/acc-4-1000000</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>
+http://localhost/view_mine.php?act=xem&loai=normal
+</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+http://localhost/acc/minecraft.html?act=xem&loai=skin
+</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+http://localhost/acc/minecraft.html?act=xem&loai=info
+</loc>
+<lastmod>2018-12-06T22:35:25+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+</urlset>
